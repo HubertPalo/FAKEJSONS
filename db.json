@@ -1,5 +1,5 @@
 {
-  "algo": {
-    "otrobjeto": "asdasdas"
-  }
+  "projects": [
+    { "Data": [ { "FormUrl": "http://192.168.0.100/addobs4/api/Interprete/GetJson", "FormName": "OBS - CREATE" }, { "FormUrl": "http://192.168.0.100/addobs5/api/AddObs/GetJson", "FormName": "AGREGAR USUARIOS - TEST - NO USAR" }, { "FormUrl": "http://192.168.0.100/TestAJE1/api/Interprete/GetJson", "FormName": "COPIA AJE - TEST" }, { "FormUrl": "http://192.168.0.100/TestAJE2/api/Interprete/GetJson", "FormName": "AJE MODAL 1 - TEST - NO USAR" }, { "FormUrl": "http://192.168.0.100/TestAJE3/api/Interprete/GetJson", "FormName": "AJE MODAL 2 - TEST - NO USAR" }, { "FormUrl": "http://192.168.0.100/testaje4/api/interprete/getjson", "FormName": "AJE OTRA VERSION - TEST - NO USAR" } ], "Count": 2 }
+  ]
 }
