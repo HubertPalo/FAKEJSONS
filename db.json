@@ -13,54 +13,46 @@
     "Count": 2
   },
   "dataHierarchyTest": {
-   "Data":[
+    "Data": [
       {
-         "label":"VICEPRESIDENTE DE OPERACIONES",
-         "data":"0000000000",
-         "children":[
-            {
-               "label":"ASESOR ACTIVOS COBRE",
-               "data":"1000000000",
-               "children":[
+        "label": "VICEPRESIDENTE DE OPERACIONES",
+        "data": "0000000000",
+        "children": [
+          {
+            "label": "ASESOR ACTIVOS COBRE",
+            "data": "1000000000",
+            "children": [
+              {
+                "label": "ANALISTA SENIOR",
+                "data": "10000A0000",
+                "children": []
+              },
+              {
+                "label": "GERENTE DE TESORERIA",
+                "data": "10T0000000",
+                "children": [
                   {
-                     "label":"ANALISTA SENIOR",
-                     "data":"10000A0000",
-                     "children":[
-
-                     ]
-                  },
-                  {
-                     "label":"GERENTE DE TESORERIA",
-                     "data":"10T0000000",
-                     "children":[
-                        {
-                           "label":"SUPERVISOR DE TESORERIA",
-                           "data":"10T0E00000",
-                           "children":[
-
-                           ]
-                        }
-                     ]
+                    "label": "SUPERVISOR DE TESORERIA",
+                    "data": "10T0E00000",
+                    "children": []
                   }
-               ]
-            },
-            {
-               "label":"GERENTE GENERAL",
-               "data":"G000000000",
-               "children":[
-
-               ]
-            },
-            {
-               "label":"SECRETARIA GERENCIA",
-               "data":"00000A0000",
-               "children":[
-
-               ]
-            }
-         ]
+                ]
+              }
+            ]
+          },
+          {
+            "label": "GERENTE GENERAL",
+            "data": "G000000000",
+            "children": []
+          },
+          {
+            "label": "SECRETARIA GERENCIA",
+            "data": "00000A0000",
+            "children": []
+          }
+        ]
       }
-   ],
-   "Count":0
-}
+    ],
+    "Count": 0
+  }
 }
